@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:ליעד פרידמן
+N:פרידמן;ליעד;;;
+ORG:שיאון השקעות נדל"ן
+TEL;TYPE=WORK,VOICE:077-9964719
+EMAIL;TYPE=INTERNET:office@seeon-nadlan.co.il
+URL:https://seeon-nadlan.co.il/
+ADR;TYPE=WORK:;;מצדה 9, מגדל ב ס.ר 3 קומה 14;בני ברק;;;ישראל
+PHOTO;VALUE=URI:https://res.cloudinary.com/dgujclab8/image/upload/f_webp/image_2_f3pj2n
+END:VCARD
